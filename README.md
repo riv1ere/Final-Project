@@ -1,5 +1,5 @@
 # Final Project
-What is the best Pittsburgh neighborhood to live in with asthma?
+Which neighborhood in Pittsburgh has the best community and outreach?
 
 ## Members
 - Jeremy Matloub (jrm370@pitt.edu)
