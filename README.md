@@ -25,5 +25,6 @@ This dataset includes information on the locations of Carnegie Public Libraries 
 ### Grow Pittsburgh Garden Locations:
 This dataset includes information on the locations of Grow Pittsburgh urban gardens across the city of Pittsburgh. Though it says that this document is from 2017, it has been update within the past 6 months.
 - https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens
+
 Other information on Grow Pittsburgh was found on this website:
 - https://www.growpittsburgh.org/about-us/our-mission-vision-and-values/
