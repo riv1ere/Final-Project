@@ -11,20 +11,18 @@ Which neighborhood in Pittsburgh has the best community and outreach?
 - gardens.iypnb belongs to Makenzie
 - Community-Centers.iypnb belongs to Ana
 
-## Datasets and Descriptions:
-
-### Community Center Attendance and City Facilities Dataset:
+### Community Center Attendance and City Facilities Dataset and Description:
 These datasets display information on the numbers in attendance of community centers and the city facilities that are available to the public in the city of Pittsburgh.
 
 - https://data.wprdc.org/dataset/daily-community-center-attendance
 - https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
 
-### Carnegie Libraries of Pittsburgh Dataset:
+### Carnegie Libraries of Pittsburgh Dataset and Description:
 This dataset includes information on the locations of Carnegie Public Libraries of Pittsburgh.
 
 - https://data.wprdc.org/dataset/libraries
 
-### Grow Pittsburgh Garden Locations:
+### Grow Pittsburgh Garden Locations and Description:
 This dataset includes information on the locations of Grow Pittsburgh urban gardens across the city of Pittsburgh. Though it says that this document is from 2017, it has been updated within the past 6 months.
 
 - https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens
@@ -32,4 +30,5 @@ This dataset includes information on the locations of Grow Pittsburgh urban gard
 Other information on Grow Pittsburgh was found using this website and can be explored at the url below:
 - https://www.growpittsburgh.org/about-us/our-mission-vision-and-values/
 
-Zip code information was found using
+Zip code information was found using this url:
+https://apps.pittsburghpa.gov/redtail/images/4573_ZIP_CODES_2019.pdf
