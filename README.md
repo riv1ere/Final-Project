@@ -29,6 +29,3 @@ This dataset includes information on the locations of Grow Pittsburgh urban gard
 
 Other information on Grow Pittsburgh was found using this website and can be explored at the url below:
 - https://www.growpittsburgh.org/about-us/our-mission-vision-and-values/
-
-Zip code information was found using this url:
-https://apps.pittsburghpa.gov/redtail/images/4573_ZIP_CODES_2019.pdf
