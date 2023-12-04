@@ -9,7 +9,7 @@ Which neighborhood in Pittsburgh has the best community and outreach?
 ## Notebooks:
 - LotsToLove.ipynb belongs to Jeremy
 - gardens.ipynb belongs to Makenzie
-- spaces.ipynbbelongs to Ana
+- spaces.ipynb belongs to Ana
 
 ### Community Center Attendance and City Facilities Dataset and Description:
 This dataset displays the name and location of various city facilities available in Pittsburgh.
