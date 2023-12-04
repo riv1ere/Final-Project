@@ -7,15 +7,14 @@ Which neighborhood in Pittsburgh has the best community and outreach?
 - Ana Polynice (anp245@pitt.edu)
 
 ## Notebooks:
-- LotsToLove.iypnb belongs to Jeremy
-- gardens.iypnb belongs to Makenzie
-- spaces.iypnb belongs to Ana
+- LotsToLove.ipynb belongs to Jeremy
+- gardens.ipynb belongs to Makenzie
+- spaces.ipynbbelongs to Ana
 
 ### Community Center Attendance and City Facilities Dataset and Description:
-These datasets display information on the numbers in attendance of community centers and the city facilities that are available to the public in the city of Pittsburgh.
+This dataset displays the name and location of various city facilities available in Pittsburgh.
 
-- https://data.wprdc.org/dataset/daily-community-center-attendance
-- https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
+https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
 
 ### Lots To Love Dataset and Description:
 This dataset includes information on the locations of Lots to Love spaces.
