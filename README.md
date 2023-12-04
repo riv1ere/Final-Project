@@ -6,6 +6,9 @@ Which neighborhood in Pittsburgh has the best community and outreach?
 - Makenzie Wolf (mow51@pitt.edu) 
 - Ana Polynice (anp245@pitt.edu)
 
+## Group Name/Number:
+Group 28
+
 ## Notebooks:
 - LotsToLove.ipynb belongs to Jeremy
 - gardens.ipynb belongs to Makenzie
